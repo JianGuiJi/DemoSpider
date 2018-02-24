@@ -1,0 +1,248 @@
+2018-02-24 23:24:41 [error] Unknown error...
+
+[ 糗事百科 Spider ] is started...
+
+  * PHPSpider Version: 2.1.3
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php demo.php stop" to quit. Start success.
+
+2018-02-24 23:25:55 [debug] Find scan page: http://www.qiushibaike.com/
+2018-02-24 23:25:55 [info] Find pages: 1 
+2018-02-24 23:25:55 [info] Waiting for collect pages: 1 
+2018-02-24 23:25:55 [info] Collected pages: 0 
+
+[ 糗事百科 Spider ] is started...
+
+  * PHPSpider Version: 2.1.3
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php demo.php stop" to quit. Start success.
+
+2018-02-24 23:27:13 [debug] Find scan page: http://www.qiushibaike.com/
+2018-02-24 23:27:13 [info] Find pages: 1 
+2018-02-24 23:27:13 [info] Waiting for collect pages: 1 
+2018-02-24 23:27:13 [info] Collected pages: 0 
+
+[ 糗事百科 Spider ] is started...
+
+  * PHPSpider Version: 2.1.3
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php demo.php stop" to quit. Start success.
+
+2018-02-24 23:27:18 [debug] Find scan page: http://www.qiushibaike.com/
+2018-02-24 23:27:18 [info] Find pages: 1 
+2018-02-24 23:27:18 [info] Waiting for collect pages: 1 
+2018-02-24 23:27:18 [info] Collected pages: 0 
+
+[ 马蜂窝 Spider ] is started...
+
+  * PHPSpider Version: 2.1.3
+  * Documentation: https://doc.phpspider.org
+  * Task Number: 1
+
+Input "php mafengwo.php stop" to quit. Start success.
+
+2018-02-24 23:36:14 [debug] Find scan page: http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10088.html
+2018-02-24 23:36:14 [info] Find pages: 1 
+2018-02-24 23:36:14 [info] Waiting for collect pages: 1 
+2018-02-24 23:36:14 [info] Collected pages: 0 
+2018-02-24 23:36:14 [debug] Success download page http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10088.html in 0.271 s
+2018-02-24 23:36:14 [debug] Find list page: http://www.mafengwo.cn/mdd/base/list/pagedata_citylist?page=0
+2018-02-24 23:36:14 [debug] Success process page http://www.mafengwo.cn/travel-scenic-spot/mafengwo/10088.html in 0.323 s
+2018-02-24 23:36:14 [info] Spider running in 0d 0h 0m 0s
+2018-02-24 23:36:14 [info] Find pages: 2 
+2018-02-24 23:36:14 [info] Waiting for collect pages: 1 
+2018-02-24 23:36:14 [info] Collected pages: 1 
+2018-02-24 23:36:14 [debug] Success download page http://www.mafengwo.cn/mdd/base/list/pagedata_citylist?page=0 in 0.161 s
+2018-02-24 23:36:14 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019
+2018-02-24 23:36:14 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=15963
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=20060
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=185219
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=17949
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=26471
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=11561
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=19079
+2018-02-24 23:36:15 [debug] Success process page http://www.mafengwo.cn/mdd/base/list/pagedata_citylist?page=0 in 0.328 s
+2018-02-24 23:36:15 [info] Spider running in 0d 0h 0m 1s
+2018-02-24 23:36:15 [info] Find pages: 11 
+2018-02-24 23:36:15 [info] Waiting for collect pages: 9 
+2018-02-24 23:36:15 [info] Collected pages: 2 
+2018-02-24 23:36:15 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019 in 0.141 s
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=0
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=1
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=2
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=3
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=4
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=5
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=6
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=7
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=8
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=9
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=10
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=11
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=12
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/8499166.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/8485758.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/3514071.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/7950418.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/8305054.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/6949283.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/7756799.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/7674401.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/7572563.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/6999200.html
+2018-02-24 23:36:15 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019 in 0.332 s
+2018-02-24 23:36:15 [info] Spider running in 0d 0h 0m 1s
+2018-02-24 23:36:15 [info] Find pages: 34 
+2018-02-24 23:36:15 [info] Waiting for collect pages: 31 
+2018-02-24 23:36:15 [info] Collected pages: 3 
+2018-02-24 23:36:15 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502 in 0.123 s
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502&page=0
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502&page=1
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502&page=2
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502&page=3
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502&page=4
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502&page=5
+2018-02-24 23:36:15 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502&page=6
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/8488294.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/7631612.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/7443746.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/8398170.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/8356286.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/8285198.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/8213730.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/7857118.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/7514978.html
+2018-02-24 23:36:15 [debug] Find content page: http://www.mafengwo.cn/i/7439834.html
+2018-02-24 23:36:15 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=24502 in 0.292 s
+2018-02-24 23:36:15 [info] Spider running in 0d 0h 0m 1s
+2018-02-24 23:36:15 [info] Find pages: 51 
+2018-02-24 23:36:15 [info] Waiting for collect pages: 47 
+2018-02-24 23:36:15 [info] Collected pages: 4 
+2018-02-24 23:36:15 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=15963 in 0.134 s
+2018-02-24 23:36:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=15963&page=0
+2018-02-24 23:36:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=15963&page=1
+2018-02-24 23:36:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=15963&page=2
+2018-02-24 23:36:16 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=15963&page=3
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/3445372.html
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/6983402.html
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/6814883.html
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/3447390.html
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/3490653.html
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/1012630.html
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/1374239.html
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/583855.html
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/583856.html
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/1156130.html
+2018-02-24 23:36:16 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=15963 in 0.298 s
+2018-02-24 23:36:16 [info] Spider running in 0d 0h 0m 2s
+2018-02-24 23:36:16 [info] Find pages: 65 
+2018-02-24 23:36:16 [info] Waiting for collect pages: 60 
+2018-02-24 23:36:16 [info] Collected pages: 5 
+2018-02-24 23:36:16 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=20060 in 0.128 s
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/3105965.html
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/740556.html
+2018-02-24 23:36:16 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=20060 in 0.183 s
+2018-02-24 23:36:16 [info] Spider running in 0d 0h 0m 2s
+2018-02-24 23:36:16 [info] Find pages: 67 
+2018-02-24 23:36:16 [info] Waiting for collect pages: 61 
+2018-02-24 23:36:16 [info] Collected pages: 6 
+2018-02-24 23:36:16 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=185219 in 0.129 s
+2018-02-24 23:36:16 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=185219 in 0.142 s
+2018-02-24 23:36:16 [info] Spider running in 0d 0h 0m 2s
+2018-02-24 23:36:16 [info] Find pages: 67 
+2018-02-24 23:36:16 [info] Waiting for collect pages: 60 
+2018-02-24 23:36:16 [info] Collected pages: 7 
+2018-02-24 23:36:16 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=17949 in 0.134 s
+2018-02-24 23:36:16 [debug] Find content page: http://www.mafengwo.cn/i/699015.html
+2018-02-24 23:36:16 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=17949 in 0.164 s
+2018-02-24 23:36:16 [info] Spider running in 0d 0h 0m 2s
+2018-02-24 23:36:16 [info] Find pages: 68 
+2018-02-24 23:36:16 [info] Waiting for collect pages: 60 
+2018-02-24 23:36:16 [info] Collected pages: 8 
+2018-02-24 23:36:17 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=26471 in 0.142 s
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/3394816.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/3330009.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/876883.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/1020835.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/3057705.html
+2018-02-24 23:36:17 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=26471 in 0.214 s
+2018-02-24 23:36:17 [info] Spider running in 0d 0h 0m 3s
+2018-02-24 23:36:17 [info] Find pages: 73 
+2018-02-24 23:36:17 [info] Waiting for collect pages: 64 
+2018-02-24 23:36:17 [info] Collected pages: 9 
+2018-02-24 23:36:17 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=11561 in 0.14 s
+2018-02-24 23:36:17 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=11561&page=0
+2018-02-24 23:36:17 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=11561&page=1
+2018-02-24 23:36:17 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=11561&page=2
+2018-02-24 23:36:17 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=11561&page=3
+2018-02-24 23:36:17 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=11561&page=4
+2018-02-24 23:36:17 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=11561&page=5
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/7696160.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/3404874.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/3273040.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/3404865.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/3404903.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/616249.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/602156.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/2912597.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/1038446.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/2881626.html
+2018-02-24 23:36:17 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=11561 in 0.292 s
+2018-02-24 23:36:17 [info] Spider running in 0d 0h 0m 3s
+2018-02-24 23:36:17 [info] Find pages: 89 
+2018-02-24 23:36:17 [info] Waiting for collect pages: 79 
+2018-02-24 23:36:17 [info] Collected pages: 10 
+2018-02-24 23:36:17 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=19079 in 0.132 s
+2018-02-24 23:36:17 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=19079&page=0
+2018-02-24 23:36:17 [debug] Find list page: http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=19079&page=1
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/8232442.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/7593173.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/7646906.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/7548545.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/7594760.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/7419632.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/6876512.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/717936.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/1263872.html
+2018-02-24 23:36:17 [debug] Find content page: http://www.mafengwo.cn/i/1182298.html
+2018-02-24 23:36:17 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=19079 in 0.31 s
+2018-02-24 23:36:17 [info] Spider running in 0d 0h 0m 3s
+2018-02-24 23:36:17 [info] Find pages: 101 
+2018-02-24 23:36:17 [info] Waiting for collect pages: 90 
+2018-02-24 23:36:17 [info] Collected pages: 11 
+2018-02-24 23:36:17 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=0 in 0.156 s
+2018-02-24 23:36:17 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=0 in 0.183 s
+2018-02-24 23:36:17 [info] Spider running in 0d 0h 0m 3s
+2018-02-24 23:36:17 [info] Find pages: 101 
+2018-02-24 23:36:18 [info] Waiting for collect pages: 89 
+2018-02-24 23:36:18 [info] Collected pages: 12 
+2018-02-24 23:36:18 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=1 in 0.182 s
+2018-02-24 23:36:18 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=1 in 0.197 s
+2018-02-24 23:36:18 [info] Spider running in 0d 0h 0m 4s
+2018-02-24 23:36:18 [info] Find pages: 101 
+2018-02-24 23:36:18 [info] Waiting for collect pages: 88 
+2018-02-24 23:36:18 [info] Collected pages: 13 
+2018-02-24 23:36:18 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=2 in 0.183 s
+2018-02-24 23:36:18 [debug] Find content page: http://www.mafengwo.cn/i/3315531.html
+2018-02-24 23:36:18 [debug] Find content page: http://www.mafengwo.cn/i/3329108.html
+2018-02-24 23:36:18 [debug] Find content page: http://www.mafengwo.cn/i/3507412.html
+2018-02-24 23:36:18 [debug] Find content page: http://www.mafengwo.cn/i/1366443.html
+2018-02-24 23:36:18 [debug] Find content page: http://www.mafengwo.cn/i/2986743.html
+2018-02-24 23:36:18 [debug] Find content page: http://www.mafengwo.cn/i/2858641.html
+2018-02-24 23:36:18 [debug] Find content page: http://www.mafengwo.cn/i/1304845.html
+2018-02-24 23:36:18 [debug] Find content page: http://www.mafengwo.cn/i/1353562.html
+2018-02-24 23:36:18 [debug] Find content page: http://www.mafengwo.cn/i/2841889.html
+2018-02-24 23:36:18 [debug] Find content page: http://www.mafengwo.cn/i/2991049.html
+2018-02-24 23:36:18 [debug] Success process page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=2 in 0.272 s
+2018-02-24 23:36:18 [info] Spider running in 0d 0h 0m 4s
+2018-02-24 23:36:18 [info] Find pages: 111 
+2018-02-24 23:36:18 [info] Waiting for collect pages: 97 
+2018-02-24 23:36:18 [info] Collected pages: 14 
+2018-02-24 23:36:18 [debug] Success download page http://www.mafengwo.cn/gonglve/ajax.php?act=get_travellist&mddid=18019&page=3 in 0.137 s
